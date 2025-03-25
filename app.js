@@ -12,7 +12,7 @@ while (true) {
     let telefonos = [];
     while (true) {
         let telefono = readline.question('Telefono (o enter para terminar): ');
-        if (!telefono) break;
+        if (!telefono) break; //Si no se ingresa nada, terminar la carga de telefonos
         telefonos.push(telefono);
     }
 

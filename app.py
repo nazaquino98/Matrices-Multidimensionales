@@ -12,7 +12,7 @@ while True:
     telefonos = []
     while True:
         telefono = input("Telefono (o enter para terminar): ")
-        if telefono == "":  # Si no se ingresa nada, terminar la carga de teléfonos
+        if telefono == "":  # Si no se ingresa nada, terminar la carga de telefonos
             break
         telefonos.append(telefono)
 
