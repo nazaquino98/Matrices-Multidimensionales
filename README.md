@@ -15,8 +15,8 @@ ingreso de múltiples números telefónicos por persona y mostrando los datos al
 
 ### ** Clonar el repositorio**
 abrir la consola y ejecutar lo siguiente:
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git y luego: 
-cd TU_REPOSITORIO
+git clone https://github.com/nazaquino98/Matrices-Multidimensionales.git y luego: 
+cd Matrices-Multidimensionales.git
 
 ### ** Ejecución en JavaScript (Node.js)**
 
@@ -24,7 +24,7 @@ cd TU_REPOSITORIO
    abrir la consola y ejecutar lo siguiente:
    npm install readline-sync
 
-2. **Ejecutar el script**
+2. **Ejecutar el script**:
    node app.js
 
 
